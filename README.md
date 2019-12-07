@@ -1,0 +1,1 @@
+# mineHash-script-de-instalacao
